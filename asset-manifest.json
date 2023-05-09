@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/disney/static/css/main.a7c18a78.css",
+    "main.js": "/disney/static/js/main.ad0b4492.js",
+    "static/js/787.e183e29d.chunk.js": "/disney/static/js/787.e183e29d.chunk.js",
+    "static/media/leo.jpg": "/disney/static/media/leo.50ae99c8a54fc6b768d5.jpg",
+    "index.html": "/disney/index.html",
+    "main.a7c18a78.css.map": "/disney/static/css/main.a7c18a78.css.map",
+    "main.ad0b4492.js.map": "/disney/static/js/main.ad0b4492.js.map",
+    "787.e183e29d.chunk.js.map": "/disney/static/js/787.e183e29d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c18a78.css",
+    "static/js/main.ad0b4492.js"
+  ]
+}
