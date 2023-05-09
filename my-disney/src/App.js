@@ -1,8 +1,8 @@
 import './App.css';
 import React from 'react';
-import NavBar from './Components/NavBar';
-import Home from './Components/Home';
-import DisneyList from './Components/DisneyList';
+import NavBar from '../../my-disney/src/Components/NavBar';
+import Home from '../../my-disney/src/Components/Home';
+import DisneyList from '../../my-disney/src/Components/DisneyList';
 import {Route,Routes}from 'react-router-dom';
 function App() {
   return (
